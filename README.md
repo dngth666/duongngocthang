@@ -1,11 +1,11 @@
 # 👋 Xin chào, tôi là Dương Ngọc Thắng!
 ### 🚀 Về tôi:
-- 📚 Giáo viên Ngữ văn - Công nghệ giáo dục
-- 🎮 Đang phát triển game giáo dục với GDevelop 5
-- 🤖 Yêu thích AI, EdTech, lập trình cho trẻ em
+- 📚 Chuyên ngành Công nghệ giáo dục - Đại học Bách khoa Hà Nội
+- 🎮 Đang phát triển sản phẩm giáo dục với GDevelop 5
+- 🤖 Yêu thích AI, EdTech Applications
 
 ### 📫 Liên hệ:
-- 📧 Email: example@gmail.com
-- 🔗 [LinkedIn](https://linkedin.com/in/example) | [Facebook](https://facebook.com/example)
+- 📧 Email: dngth666@gmail.com
 
-![Profile views](https://komarev.com/ghpvc/?username=duongngocthang&color=blue)
+**My web Introduction →** https://abouttdoung.pages.dev/
+
