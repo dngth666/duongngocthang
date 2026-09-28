@@ -7,5 +7,3 @@
 ### 📫 Liên hệ:
 - 📧 Email: dngth666@gmail.com
 
-**My web Introduction →** https://abouttdoung.pages.dev/
-
